@@ -4,9 +4,7 @@
 - 👯 I’m looking to collaborate on .NET Core, Xamarin and Angular open source projects and plugins.
 - 🌱 I’m currently learning AI.
 - 💬 Ask me about anything.
-- 📫 How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-zain-ahmad-khan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zain-ahmad-khan/)](https://www.linkedin.com/in/zain-ahmad-khan/) 
-[![Mail Badge](https://img.shields.io/badge/-niazi_zain@hotmail.com-c14438?style=flat-square&logo=Mail&logoColor=white&link=mailto:niazi_zain@hotmail.com)](mailto:niazi_zain@hotmail.com)
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/zain-ahmad-khan/">LinkedIn</a> | <a href="mailto:niazi_zain@hotmail.com">Email</a>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
