@@ -1,5 +1,7 @@
 ### Hi there I'm Zain 👋
 
+#### I'm a Full-Stack Developer based in Lahore, Pakistan.
+
 - 🔭 I’m currently working on Fintech and Custom solutions in .NET/.NET Core, Xamarin Forms and Angular.
 - 👯 I’m looking to collaborate on .NET Core, Xamarin and Angular open source projects and plugins.
 - 🌱 I’m currently learning AI.
