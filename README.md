@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Fintech and Custom solutions in .NET/.NET Core, Xamarin Forms and Angular.
 - 👯 I’m looking to collaborate on .NET Core, Xamarin and Angular open source projects and plugins.
-- 🌱 I’m currently learning AI.
+- 🌱 I’m currently learning AI and Blockchain.
 - 💬 Ask me about anything.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/zain-ahmad-khan/">LinkedIn</a> | <a href="mailto:niazi_zain@hotmail.com">Email</a>
 
